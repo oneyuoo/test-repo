@@ -12,4 +12,4 @@ git add .
 git commit -m "自动化提交：Shell 脚本练习"
 
 # 4. 推送到远程
-git push
+git push origin HEAD:main
